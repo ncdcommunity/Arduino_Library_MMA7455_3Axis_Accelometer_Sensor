@@ -1,4 +1,4 @@
-[![MMA7455](MMA7455_I2CADC.png)](https://store.ncd.io/product/mma7455l-3-axis-low-g-digital-output-accelerometer-i2c-mini-module/)
+[![MMA7455](MMA7455_I2C.png)](https://store.ncd.io/product/mma7455l-3-axis-low-g-digital-output-accelerometer-i2c-mini-module/)
 
 # MMA7455
 
